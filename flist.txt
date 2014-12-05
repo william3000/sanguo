@@ -1,0 +1,15 @@
+local flist = { 
+    appVersion = 1, 
+    version = "1.0.1", 
+    dirPaths = { 
+        {name = "common"}, 
+        {name = "common/test"}, 
+        {name = "lib"}, 
+        {name = "sound"}, 
+    }, 
+    fileInfoList = { 
+        {name = "lib/test.zip", code = "b126279331bd68cc3c5c63e6fe0f2156", size = 101677}, 
+    }, 
+} 
+
+return flist
